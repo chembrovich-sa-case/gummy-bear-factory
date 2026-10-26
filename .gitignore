@@ -1,0 +1,5 @@
+.rojo/
+*.rbxlx.lock
+*.rbxl.lock
+.DS_Store
+Thumbs.db
